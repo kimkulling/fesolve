@@ -1,0 +1,3 @@
+[submodule "src/contrib/cppcore"]
+	path = src/contrib/cppcore
+	url = https://github.com/kimkulling/cppcore.git
